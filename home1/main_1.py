@@ -11,6 +11,8 @@ t = turtle.Turtle()
 
 # Метод для рисования тела
 def body():
+
+
   t.pensize(30) # Размер кисти
 
   t.fillcolor(BODY_COLOR) # Цвет заполнения
